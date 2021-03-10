@@ -1,0 +1,22 @@
+PODS:
+  - CodableCSV (0.6.5)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+
+DEPENDENCIES:
+  - CodableCSV (~> 0.6.5)
+  - SQLite.swift (~> 0.12.0)
+
+SPEC REPOS:
+  trunk:
+    - CodableCSV
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  CodableCSV: c96017cf72604b1254fe146613cb8105f9319648
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+
+PODFILE CHECKSUM: 3a4eade2d76fd88dea6731eb510b1a32307fae7a
+
+COCOAPODS: 1.9.3
